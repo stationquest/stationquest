@@ -1,775 +1,775 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas HD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band Campinas HD
-http://dns.maxptv.net:2052/b013/b013/242
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/242
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas SD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band Campinas SD
-http://dns.maxptv.net:2052/b013/b013/241
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/241
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP HD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band SP HD
-http://dns.maxptv.net:2052/b013/b013/130
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/130
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP SD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band SP SD
-http://dns.maxptv.net:2052/b013/b013/129
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/129
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura HD" tvg-logo="http://painelsbo.painel.life/logo/canais/cultura.png" group-title="Canais :: ABERTOS",Cultura HD
-http://dns.maxptv.net:2052/b013/b013/197
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/197
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura SD" tvg-logo="http://painelsbo.painel.life/logo/canais/cultura.png" group-title="Canais :: ABERTOS",Cultura SD
-http://dns.maxptv.net:2052/b013/b013/196
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/196
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas FHD" tvg-logo="http://painelsbo.painel.life/logo/eptvcampinas.png" group-title="Canais :: ABERTOS",EPTV Campinas FHD
-http://dns.maxptv.net:2052/b013/b013/34094
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/34094
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas HD" tvg-logo="http://painelsbo.painel.life/logo/eptvcampinas.png" group-title="Canais :: ABERTOS",EPTV Campinas HD
-http://dns.maxptv.net:2052/b013/b013/238
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/238
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas HD²" tvg-logo="http://painelsbo.painel.life/logo/eptvcampinas.png" group-title="Canais :: ABERTOS",EPTV Campinas HD²
-http://dns.maxptv.net:2052/b013/b013/246
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/246
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas SD" tvg-logo="http://painelsbo.painel.life/logo/eptvcampinas.png" group-title="Canais :: ABERTOS",EPTV Campinas SD
-http://dns.maxptv.net:2052/b013/b013/237
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/237
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Campinas  HD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS",Record Campinas  HD
-http://dns.maxptv.net:2052/b013/b013/240
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/240
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Campinas  HD²" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS",Record Campinas  HD²
-http://dns.maxptv.net:2052/b013/b013/68
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/68
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Campinas  SD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS",Record Campinas  SD
-http://dns.maxptv.net:2052/b013/b013/239
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/239
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP HD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS",Record SP HD
-http://dns.maxptv.net:2052/b013/b013/65
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/65
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP SD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS",Record SP SD
-http://dns.maxptv.net:2052/b013/b013/64
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/64
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV HD" tvg-logo="http://painelsbo.painel.life/logo/redetv.png" group-title="Canais :: ABERTOS",RedeTV HD
-http://dns.maxptv.net:2052/b013/b013/61
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/61
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV SD" tvg-logo="http://painelsbo.painel.life/logo/redetv.png" group-title="Canais :: ABERTOS",RedeTV SD
-http://dns.maxptv.net:2052/b013/b013/60
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/60
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT  HD²" tvg-logo="http://painelsbo.painel.life/logo/sbt.png" group-title="Canais :: ABERTOS",SBT  HD²
-http://dns.maxptv.net:2052/b013/b013/73185
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/73185
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT HD" tvg-logo="http://painelsbo.painel.life/logo/sbt.png" group-title="Canais :: ABERTOS",SBT HD
-http://dns.maxptv.net:2052/b013/b013/59
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/59
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SD" tvg-logo="http://painelsbo.painel.life/logo/sbt.png" group-title="Canais :: ABERTOS",SBT SD
-http://dns.maxptv.net:2052/b013/b013/58
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/58
 #EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="CINE SKY 01 HD" tvg-logo="http://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY",CINE SKY 01 HD
-http://dns.maxptv.net:2052/b013/b013/26714
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/26714
 #EXTINF:-1 tvg-id="Cine Sky 2" tvg-name="CINE SKY 02 HD" tvg-logo="http://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY",CINE SKY 02 HD
-http://dns.maxptv.net:2052/b013/b013/26715
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/26715
 #EXTINF:-1 tvg-id="Cine Sky 3" tvg-name="CINE SKY 03 HD" tvg-logo="http://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY",CINE SKY 03 HD
-http://dns.maxptv.net:2052/b013/b013/26716
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/26716
 #EXTINF:-1 tvg-id="Cine Sky 4" tvg-name="CINE SKY 04 HD" tvg-logo="http://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY",CINE SKY 04 HD
-http://dns.maxptv.net:2052/b013/b013/26717
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/26717
 #EXTINF:-1 tvg-id="Cine Sky 5" tvg-name="CINE SKY 05 HD" tvg-logo="http://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY",CINE SKY 05 HD
-http://dns.maxptv.net:2052/b013/b013/26718
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/26718
 #EXTINF:-1 tvg-id="Cine Sky 6" tvg-name="CINE SKY 06 HD" tvg-logo="http://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY",CINE SKY 06 HD
-http://dns.maxptv.net:2052/b013/b013/26719
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/26719
 #EXTINF:-1 tvg-id="Cine Sky 7" tvg-name="CINE SKY 07 HD" tvg-logo="http://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY",CINE SKY 07 HD
-http://dns.maxptv.net:2052/b013/b013/26720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/26720
 #EXTINF:-1 tvg-id="Cine Sky 8" tvg-name="CINE SKY 08 HD" tvg-logo="http://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY",CINE SKY 08 HD
-http://dns.maxptv.net:2052/b013/b013/26721
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/26721
 #EXTINF:-1 tvg-id="Cine Sky 9" tvg-name="CINE SKY 09 HD" tvg-logo="http://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY",CINE SKY 09 HD
-http://dns.maxptv.net:2052/b013/b013/26722
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/26722
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Charlie Brown Jr" tvg-logo="http://ipstream1.dyndns.biz:80/images/i-4WkDVS0B-LVrWQVBRE14Phhl4iiV8zPqMHhsn7y3c3GxqW1MODWYiLGEv1uxl2.jpg" group-title="Canais :: Discografia",Discografia - Charlie Brown Jr
-http://dns.maxptv.net:2052/b013/b013/157275
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157275
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Exaltasamba" tvg-logo="http://dns.maxptv.net:2052/images/0f6b2ee74fe314f63dd3d7e17eb65e57.png" group-title="Canais :: Discografia",Discografia - Exaltasamba
-http://dns.maxptv.net:2052/b013/b013/157276
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157276
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Jorge e Mateus" tvg-logo="http://dns.maxptv.net:2052/images/f3e33fc7b8a2e55cb6a05271322ec816.jpg" group-title="Canais :: Discografia",Discografia - Jorge e Mateus
-http://dns.maxptv.net:2052/b013/b013/157277
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157277
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Legiao Urbana" tvg-logo="http://dns.maxptv.net:2052/images/3f2b940f932091d333273d6bfdace244.jpg" group-title="Canais :: Discografia",Discografia - Legiao Urbana
-http://dns.maxptv.net:2052/b013/b013/157278
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157278
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Link Park" tvg-logo="http://dns.maxptv.net:2052/images/57cbb5f2e9921c1573dffb8d5491afd0.jpg" group-title="Canais :: Discografia",Discografia - Link Park
-http://dns.maxptv.net:2052/b013/b013/157279
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157279
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Mariana e Maraisa" tvg-logo="http://dns.maxptv.net:2052/images/8b9340aeb502ac18e0e503e348691323.jpg" group-title="Canais :: Discografia",Discografia - Mariana e Maraisa
-http://dns.maxptv.net:2052/b013/b013/157280
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157280
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Marilia Mendonca" tvg-logo="http://dns.maxptv.net:2052/images/8312477d64985bdabcfc359dfc3e17e8.jpg" group-title="Canais :: Discografia",Discografia - Marilia Mendonca
-http://dns.maxptv.net:2052/b013/b013/157281
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157281
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Metalica" tvg-logo="http://dns.maxptv.net:2052/images/d91aff65a75fe1a737d983c63855b924.jpg" group-title="Canais :: Discografia",Discografia - Metalica
-http://dns.maxptv.net:2052/b013/b013/157282
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157282
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Michael Jackson" tvg-logo="http://dns.maxptv.net:2052/images/e529f9c9488d5f1e7c6a77ee4fa75918.jpg" group-title="Canais :: Discografia",Discografia - Michael Jackson
-http://dns.maxptv.net:2052/b013/b013/157283
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157283
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Nirvana" tvg-logo="http://dns.maxptv.net:2052/images/e137182dfc49cba10aa17676321f5f72.png" group-title="Canais :: Discografia",Discografia - Nirvana
-http://dns.maxptv.net:2052/b013/b013/157284
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157284
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Roberto Carlos" tvg-logo="http://dns.maxptv.net:2052/images/1d2933793f7628eb00a65662a2d49ce1.jpg" group-title="Canais :: Discografia",Discografia - Roberto Carlos
-http://dns.maxptv.net:2052/b013/b013/157285
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157285
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Zeca Pagodinho" tvg-logo="http://dns.maxptv.net:2052/images/3379aa666d30e94ae483cd6b75d8a39d.jpg" group-title="Canais :: Discografia",Discografia - Zeca Pagodinho
-http://dns.maxptv.net:2052/b013/b013/157286
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157286
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="CONMEBOL PARAMOUNT+ 1 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 1 HD
-http://dns.maxptv.net:2052/b013/b013/18835
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/18835
 #EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL PARAMOUNT+ 1 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 1 HD²
-http://dns.maxptv.net:2052/b013/b013/115481
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/115481
 #EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL PARAMOUNT+ 1 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 1 SD
-http://dns.maxptv.net:2052/b013/b013/19039
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/19039
 #EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 2 HD
-http://dns.maxptv.net:2052/b013/b013/18836
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/18836
 #EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 2 HD²
-http://dns.maxptv.net:2052/b013/b013/115482
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/115482
 #EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 2 SD
-http://dns.maxptv.net:2052/b013/b013/19040
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/19040
 #EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 3 HD
-http://dns.maxptv.net:2052/b013/b013/18837
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/18837
 #EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 3 HD²
-http://dns.maxptv.net:2052/b013/b013/115483
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/115483
 #EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 3 SD
-http://dns.maxptv.net:2052/b013/b013/19041
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/19041
 #EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 4 HD
-http://dns.maxptv.net:2052/b013/b013/18838
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/18838
 #EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 4 HD²
-http://dns.maxptv.net:2052/b013/b013/115484
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/115484
 #EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 4 SD
-http://dns.maxptv.net:2052/b013/b013/19042
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/19042
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ",Animal Planet FHD
-http://dns.maxptv.net:2052/b013/b013/20257
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20257
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ",Animal Planet HD
-http://dns.maxptv.net:2052/b013/b013/232
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/232
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ",Animal Planet SD
-http://dns.maxptv.net:2052/b013/b013/231
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/231
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Channel FHD
-http://dns.maxptv.net:2052/b013/b013/20225
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20225
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Channel HD
-http://dns.maxptv.net:2052/b013/b013/195
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/195
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Channel SD
-http://dns.maxptv.net:2052/b013/b013/194
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/194
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Science FHD
-http://dns.maxptv.net:2052/b013/b013/20258
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20258
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Science HD
-http://dns.maxptv.net:2052/b013/b013/187
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/187
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Science SD
-http://dns.maxptv.net:2052/b013/b013/186
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/186
 #EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/theather.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Theater HD
-http://dns.maxptv.net:2052/b013/b013/185
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/185
 #EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/theather.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Theater SD
-http://dns.maxptv.net:2052/b013/b013/184
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/184
 #EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/discoveryturbo.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Turbo FHD
-http://dns.maxptv.net:2052/b013/b013/20266
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20266
 #EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/discoveryturbo.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Turbo HD
-http://dns.maxptv.net:2052/b013/b013/183
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/183
 #EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/discoveryturbo.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Turbo SD
-http://dns.maxptv.net:2052/b013/b013/182
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/182
 #EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/discoveryworld.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery World FHD
-http://dns.maxptv.net:2052/b013/b013/20259
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20259
 #EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/discoveryworld.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery World HD
-http://dns.maxptv.net:2052/b013/b013/181
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/181
 #EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/discoveryworld.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery World SD
-http://dns.maxptv.net:2052/b013/b013/180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/180
 #EXTINF:-1 tvg-id="DogTV.us" tvg-name="DogTV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/dogtv.png" group-title="Canais :: DOCUMENTÁRIOS ",DogTV HD
-http://dns.maxptv.net:2052/b013/b013/22987
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/22987
 #EXTINF:-1 tvg-id="DogTV.us" tvg-name="DogTV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/dogtv.png" group-title="Canais :: DOCUMENTÁRIOS ",DogTV SD
-http://dns.maxptv.net:2052/b013/b013/22988
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/22988
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS ",Fish TV FHD
-http://dns.maxptv.net:2052/b013/b013/20256
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20256
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS ",Fish TV HD
-http://dns.maxptv.net:2052/b013/b013/525
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/525
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS ",Fish TV SD
-http://dns.maxptv.net:2052/b013/b013/161
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/161
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/futura.png" group-title="Canais :: DOCUMENTÁRIOS ",Futura HD
-http://dns.maxptv.net:2052/b013/b013/211
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/211
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/futura.png" group-title="Canais :: DOCUMENTÁRIOS ",Futura SD
-http://dns.maxptv.net:2052/b013/b013/210
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/210
 #EXTINF:-1 tvg-id="History2.br" tvg-name="H2 FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/h2.png" group-title="Canais :: DOCUMENTÁRIOS ",H2 FHD
-http://dns.maxptv.net:2052/b013/b013/20260
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20260
 #EXTINF:-1 tvg-id="History2.br" tvg-name="H2 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/h2.png" group-title="Canais :: DOCUMENTÁRIOS ",H2 HD
-http://dns.maxptv.net:2052/b013/b013/137
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/137
 #EXTINF:-1 tvg-id="History2.br" tvg-name="H2 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/h2.png" group-title="Canais :: DOCUMENTÁRIOS ",H2 SD
-http://dns.maxptv.net:2052/b013/b013/523
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/523
 #EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/hgtv.png" group-title="Canais :: DOCUMENTÁRIOS ",HGTV HD
-http://dns.maxptv.net:2052/b013/b013/193
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/193
 #EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/hgtv.png" group-title="Canais :: DOCUMENTÁRIOS ",HGTV SD
-http://dns.maxptv.net:2052/b013/b013/192
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/192
 #EXTINF:-1 tvg-id="History.br" tvg-name="History Channel FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/history.png" group-title="Canais :: DOCUMENTÁRIOS ",History Channel FHD
-http://dns.maxptv.net:2052/b013/b013/20231
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20231
 #EXTINF:-1 tvg-id="History.br" tvg-name="History Channel HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/history.png" group-title="Canais :: DOCUMENTÁRIOS ",History Channel HD
-http://dns.maxptv.net:2052/b013/b013/532
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/532
 #EXTINF:-1 tvg-id="History.br" tvg-name="History Channel SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/history.png" group-title="Canais :: DOCUMENTÁRIOS ",History Channel SD
-http://dns.maxptv.net:2052/b013/b013/122
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/122
 #EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="National Geographic FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/nationalgeografic.png" group-title="Canais :: DOCUMENTÁRIOS ",National Geographic FHD
-http://dns.maxptv.net:2052/b013/b013/20272
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20272
 #EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="National Geographic HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/nationalgeografic.png" group-title="Canais :: DOCUMENTÁRIOS ",National Geographic HD
-http://dns.maxptv.net:2052/b013/b013/99
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/99
 #EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="National Geographic SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/nationalgeografic.png" group-title="Canais :: DOCUMENTÁRIOS ",National Geographic SD
-http://dns.maxptv.net:2052/b013/b013/98
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/98
 #EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports HD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/bandsports.png" group-title="Canais :: ESPORTES",Band Sports HD
-http://dns.maxptv.net:2052/b013/b013/221
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/221
 #EXTINF:-1 tvg-id="Band Sports SD" tvg-name="Band Sports SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/bandsports.png" group-title="Canais :: ESPORTES",Band Sports SD
-http://dns.maxptv.net:2052/b013/b013/220
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/220
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/espn.png" group-title="Canais :: ESPORTES",ESPN HD
-http://dns.maxptv.net:2052/b013/b013/27272
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/27272
 #EXTINF:-1 tvg-id="ESPN SD" tvg-name="ESPN SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/espn.png" group-title="Canais :: ESPORTES",ESPN SD
-http://dns.maxptv.net:2052/b013/b013/27273
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/27273
 #EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN  2 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/espn2.png" group-title="Canais :: ESPORTES",ESPN  2 HD
-http://dns.maxptv.net:2052/b013/b013/167
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/167
 #EXTINF:-1 tvg-id="ESPN 2 SD" tvg-name="ESPN  2 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/espn2.png" group-title="Canais :: ESPORTES",ESPN  2 SD
-http://dns.maxptv.net:2052/b013/b013/166
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/166
 #EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN  3 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn3.png" group-title="Canais :: ESPORTES",ESPN  3 HD
-http://dns.maxptv.net:2052/b013/b013/171
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/171
 #EXTINF:-1 tvg-id="ESPN 3 SD" tvg-name="ESPN  3 SD " tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn3.png" group-title="Canais :: ESPORTES",ESPN  3 SD 
-http://dns.maxptv.net:2052/b013/b013/170
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/170
 #EXTINF:-1 tvg-id="ESPN 4 FHD" tvg-name="ESPN 4 FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn4.png" group-title="Canais :: ESPORTES",ESPN 4 FHD
-http://dns.maxptv.net:2052/b013/b013/20310
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20310
 #EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn4.png" group-title="Canais :: ESPORTES",ESPN 4 HD
-http://dns.maxptv.net:2052/b013/b013/147
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/147
 #EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn4.png" group-title="Canais :: ESPORTES",ESPN 4 SD
-http://dns.maxptv.net:2052/b013/b013/146
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/146
 #EXTINF:-1 tvg-id="FOX SporTV 2 FHD" tvg-name="ESPN 5  FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn5.png" group-title="Canais :: ESPORTES",ESPN 5  FHD
-http://dns.maxptv.net:2052/b013/b013/20311
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20311
 #EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="ESPN 5  HD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn5.png" group-title="Canais :: ESPORTES",ESPN 5  HD
-http://dns.maxptv.net:2052/b013/b013/529
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/529
 #EXTINF:-1 tvg-id="Fox Sports 2 SD" tvg-name="ESPN 5  SD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn5.png" group-title="Canais :: ESPORTES",ESPN 5  SD
-http://dns.maxptv.net:2052/b013/b013/148
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/148
 #EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN 6 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn6.png" group-title="Canais :: ESPORTES",ESPN 6 HD
-http://dns.maxptv.net:2052/b013/b013/165
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/165
 #EXTINF:-1 tvg-id="ESPN Extra SD" tvg-name="ESPN 6  SD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn6.png" group-title="Canais :: ESPORTES",ESPN 6  SD
-http://dns.maxptv.net:2052/b013/b013/164
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/164
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv.png" group-title="Canais :: ESPORTES",SporTV HD
-http://dns.maxptv.net:2052/b013/b013/49
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/49
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv.png" group-title="Canais :: ESPORTES",SporTV SD
-http://dns.maxptv.net:2052/b013/b013/48
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv2.png" group-title="Canais :: ESPORTES",SporTV 2 HD
-http://dns.maxptv.net:2052/b013/b013/47
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/47
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv2.png" group-title="Canais :: ESPORTES",SporTV 2 SD
-http://dns.maxptv.net:2052/b013/b013/46
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/46
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv3.png" group-title="Canais :: ESPORTES",SporTV 3 HD
-http://dns.maxptv.net:2052/b013/b013/45
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/45
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv3.png" group-title="Canais :: ESPORTES",SporTV 3 SD
-http://dns.maxptv.net:2052/b013/b013/44
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/44
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Sportv 4 HD" tvg-logo="http://painelsbo.painel.life/olimp/olimp.png" group-title="Canais :: ESPORTES",Sportv 4 HD
-http://dns.maxptv.net:2052/b013/b013/159537
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159537
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Sportv 4 SD" tvg-logo="http://painelsbo.painel.life/olimp/olimp.png" group-title="Canais :: ESPORTES",Sportv 4 SD
-http://dns.maxptv.net:2052/b013/b013/159538
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159538
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/26.png" group-title="Canais :: FILMES",AMC HD
-http://dns.maxptv.net:2052/b013/b013/512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/512
 #EXTINF:-1 tvg-id="AMC SD" tvg-name="AMC SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/26.png" group-title="Canais :: FILMES",AMC SD
-http://dns.maxptv.net:2052/b013/b013/233
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/233
 #EXTINF:-1 tvg-id="Cinemax FHD" tvg-name="Cinemax FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES",Cinemax FHD
-http://dns.maxptv.net:2052/b013/b013/36589
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/36589
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES",Cinemax HD
-http://dns.maxptv.net:2052/b013/b013/203
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/203
 #EXTINF:-1 tvg-id="Cinemax SD" tvg-name="Cinemax SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES",Cinemax SD
-http://dns.maxptv.net:2052/b013/b013/202
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/202
 #EXTINF:-1 tvg-id="Eurochannel.uk" tvg-name="Eurochannel HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/eurochannel.png" group-title="Canais :: FILMES",Eurochannel HD
-http://dns.maxptv.net:2052/b013/b013/48340
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48340
 #EXTINF:-1 tvg-id="Eurochannel.uk" tvg-name="Eurochannel SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/eurochannel.png" group-title="Canais :: FILMES",Eurochannel SD
-http://dns.maxptv.net:2052/b013/b013/48341
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48341
 #EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film&Arts HD" tvg-logo="http://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais :: FILMES",Film&Arts HD
-http://dns.maxptv.net:2052/b013/b013/163
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/163
 #EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film&Arts SD" tvg-logo="http://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais :: FILMES",Film&Arts SD
-http://dns.maxptv.net:2052/b013/b013/162
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/162
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/49.png" group-title="Canais :: FILMES",Megapix HD
-http://dns.maxptv.net:2052/b013/b013/109
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/109
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/49.png" group-title="Canais :: FILMES",Megapix SD
-http://dns.maxptv.net:2052/b013/b013/108
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/108
 #EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Channel FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/53.png" group-title="Canais :: FILMES",Paramount Channel FHD
-http://dns.maxptv.net:2052/b013/b013/20264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20264
 #EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Channel HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/53.png" group-title="Canais :: FILMES",Paramount Channel HD
-http://dns.maxptv.net:2052/b013/b013/91
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/91
 #EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Channel SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/53.png" group-title="Canais :: FILMES",Paramount Channel SD
-http://dns.maxptv.net:2052/b013/b013/90
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/90
 #EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-name="Prime Box Brazil HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/primeboxbrasil.png" group-title="Canais :: FILMES",Prime Box Brazil HD
-http://dns.maxptv.net:2052/b013/b013/48344
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48344
 #EXTINF:-1 tvg-id="Prime Box Brazil SD" tvg-name="Prime Box Brazil SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/primeboxbrasil.png" group-title="Canais :: FILMES",Prime Box Brazil SD
-http://dns.maxptv.net:2052/b013/b013/48345
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48345
 #EXTINF:-1 tvg-id="Space FHD" tvg-name="Space FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/55.png" group-title="Canais :: FILMES",Space FHD
-http://dns.maxptv.net:2052/b013/b013/20271
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20271
 #EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/55.png" group-title="Canais :: FILMES",Space HD
-http://dns.maxptv.net:2052/b013/b013/51
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/51
 #EXTINF:-1 tvg-id="Space SD" tvg-name="Space SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/55.png" group-title="Canais :: FILMES",Space SD
-http://dns.maxptv.net:2052/b013/b013/50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50
 #EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES",Studio Universal HD
-http://dns.maxptv.net:2052/b013/b013/43
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/43
 #EXTINF:-1 tvg-id="Studio Universal SD" tvg-name="Studio Universal SD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES",Studio Universal SD
-http://dns.maxptv.net:2052/b013/b013/42
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/42
 #EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM HD" tvg-logo="http://painelsbo.painel.life/logo2/tcm.png" group-title="Canais :: FILMES",TCM HD
-http://dns.maxptv.net:2052/b013/b013/37
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/37
 #EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM SD" tvg-logo="http://painelsbo.painel.life/logo2/tcm.png" group-title="Canais :: FILMES",TCM SD
-http://dns.maxptv.net:2052/b013/b013/36
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/36
 #EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES",TNT FHD
-http://dns.maxptv.net:2052/b013/b013/20270
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20270
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES",TNT HD
-http://dns.maxptv.net:2052/b013/b013/21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/21
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD²" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES",TNT HD²
-http://dns.maxptv.net:2052/b013/b013/13873
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/13873
 #EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES",TNT SD
-http://dns.maxptv.net:2052/b013/b013/20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20
 #EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES ",A&E FHD
-http://dns.maxptv.net:2052/b013/b013/20253
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20253
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES ",A&E HD
-http://dns.maxptv.net:2052/b013/b013/236
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/236
 #EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E SD" tvg-logo="http://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES ",A&E SD
-http://dns.maxptv.net:2052/b013/b013/235
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/235
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ",AXN FHD
-http://dns.maxptv.net:2052/b013/b013/20234
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20234
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ",AXN HD
-http://dns.maxptv.net:2052/b013/b013/535
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/535
 #EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ",AXN SD
-http://dns.maxptv.net:2052/b013/b013/227
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/227
 #EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ",Canal Brasil FHD
-http://dns.maxptv.net:2052/b013/b013/20227
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20227
 #EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ",Canal Brasil HD
-http://dns.maxptv.net:2052/b013/b013/111747
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/111747
 #EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="Canal Brasil SD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ",Canal Brasil SD
-http://dns.maxptv.net:2052/b013/b013/111748
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/111748
 #EXTINF:-1 tvg-id="CINCHD" tvg-name="Cinecanal FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ",Cinecanal FHD
-http://dns.maxptv.net:2052/b013/b013/20245
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20245
 #EXTINF:-1 tvg-id="starlife.br" tvg-name="Cinecanal HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ",Cinecanal HD
-http://dns.maxptv.net:2052/b013/b013/156
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/156
 #EXTINF:-1 tvg-id="starlife.br" tvg-name="Cinecanal SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ",Cinecanal SD
-http://dns.maxptv.net:2052/b013/b013/155
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/155
 #EXTINF:-1 tvg-id="Comedy Central FHD" tvg-name="Comedy Central FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ",Comedy Central FHD
-http://dns.maxptv.net:2052/b013/b013/20263
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20263
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ",Comedy Central HD
-http://dns.maxptv.net:2052/b013/b013/199
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/199
 #EXTINF:-1 tvg-id="Comedy Central SD" tvg-name="Comedy Central SD" tvg-logo="http://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ",Comedy Central SD
-http://dns.maxptv.net:2052/b013/b013/198
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/198
 #EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! HD" tvg-logo="http://painelsbo.painel.life/logo/canais/e!.png" group-title="Canais :: FILMES E SÉRIES ",E! HD
-http://dns.maxptv.net:2052/b013/b013/516
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/516
 #EXTINF:-1 tvg-id="E! Entertainment Television SD" tvg-name="E! SD" tvg-logo="http://painelsbo.painel.life/logo/canais/e!.png" group-title="Canais :: FILMES E SÉRIES ",E! SD
-http://dns.maxptv.net:2052/b013/b013/172
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/172
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/37.png" group-title="Canais :: FILMES E SÉRIES ",FX FHD
-http://dns.maxptv.net:2052/b013/b013/20275
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20275
 #EXTINF:-1 tvg-id="FX.br" tvg-name="FX HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/37.png" group-title="Canais :: FILMES E SÉRIES ",FX HD
-http://dns.maxptv.net:2052/b013/b013/145
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/145
 #EXTINF:-1 tvg-id="FX.br" tvg-name="FX SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/37.png" group-title="Canais :: FILMES E SÉRIES ",FX SD
-http://dns.maxptv.net:2052/b013/b013/144
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/144
 #EXTINF:-1 tvg-id="InvestigationDiscovery.br" tvg-name="ID FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: FILMES E SÉRIES ",ID FHD
-http://dns.maxptv.net:2052/b013/b013/20254
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20254
 #EXTINF:-1 tvg-id="InvestigationDiscovery.br" tvg-name="ID HD" tvg-logo="http://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: FILMES E SÉRIES ",ID HD
-http://dns.maxptv.net:2052/b013/b013/121
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/121
 #EXTINF:-1 tvg-id="InvestigationDiscovery.br" tvg-name="ID SD" tvg-logo="http://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: FILMES E SÉRIES ",ID SD
-http://dns.maxptv.net:2052/b013/b013/120
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/120
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/lifetime.png" group-title="Canais :: FILMES E SÉRIES ",Lifetime FHD
-http://dns.maxptv.net:2052/b013/b013/20252
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20252
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://painelsbo.painel.life/logo/canais/lifetime.png" group-title="Canais :: FILMES E SÉRIES ",Lifetime HD
-http://dns.maxptv.net:2052/b013/b013/522
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/522
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD" tvg-logo="http://painelsbo.painel.life/logo/canais/lifetime.png" group-title="Canais :: FILMES E SÉRIES ",Lifetime SD
-http://dns.maxptv.net:2052/b013/b013/118
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/118
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ",Sony Channel FHD
-http://dns.maxptv.net:2052/b013/b013/20233
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20233
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel HD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ",Sony Channel HD
-http://dns.maxptv.net:2052/b013/b013/53
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/53
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel SD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ",Sony Channel SD
-http://dns.maxptv.net:2052/b013/b013/52
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/52
 #EXTINF:-1 tvg-id="Star Channel FHD" tvg-name="Star Channel FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/57.png" group-title="Canais :: FILMES E SÉRIES ",Star Channel FHD
-http://dns.maxptv.net:2052/b013/b013/20274
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20274
 #EXTINF:-1 tvg-id="Star Channel HD" tvg-name="Star Channel HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/57.png" group-title="Canais :: FILMES E SÉRIES ",Star Channel HD
-http://dns.maxptv.net:2052/b013/b013/157
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/157
 #EXTINF:-1 tvg-id="Star Channel SD" tvg-name="Star Channel SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/57.png" group-title="Canais :: FILMES E SÉRIES ",Star Channel SD
-http://dns.maxptv.net:2052/b013/b013/150
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/150
 #EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/tntnovelas.png" group-title="Canais :: FILMES E SÉRIES ",TNT Novelas HD
-http://dns.maxptv.net:2052/b013/b013/122056
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/122056
 #EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/tntnovelas.png" group-title="Canais :: FILMES E SÉRIES ",TNT Novelas SD
-http://dns.maxptv.net:2052/b013/b013/122057
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/122057
 #EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Séries FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/tntseries.png" group-title="Canais :: FILMES E SÉRIES ",TNT Séries FHD
-http://dns.maxptv.net:2052/b013/b013/20269
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20269
 #EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Séries HD" tvg-logo="http://painelsbo.painel.life/logo/canais/tntseries.png" group-title="Canais :: FILMES E SÉRIES ",TNT Séries HD
-http://dns.maxptv.net:2052/b013/b013/517
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/517
 #EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Séries SD" tvg-logo="http://painelsbo.painel.life/logo/canais/tntseries.png" group-title="Canais :: FILMES E SÉRIES ",TNT Séries SD
-http://dns.maxptv.net:2052/b013/b013/18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/18
 #EXTINF:-1 tvg-id="Universal Channel FHD" tvg-name="Universal Channel FHD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES ",Universal Channel FHD
-http://dns.maxptv.net:2052/b013/b013/20249
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20249
 #EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES ",Universal Channel HD
-http://dns.maxptv.net:2052/b013/b013/13215
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/13215
 #EXTINF:-1 tvg-id="Universal Channel SD" tvg-name="Universal Channel SD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES ",Universal Channel SD
-http://dns.maxptv.net:2052/b013/b013/11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/11
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA Network FHD" tvg-logo="http://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ",USA Network FHD
-http://dns.maxptv.net:2052/b013/b013/20255
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20255
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA Network HD" tvg-logo="http://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ",USA Network HD
-http://dns.maxptv.net:2052/b013/b013/41
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/41
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA Network SD" tvg-logo="http://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ",USA Network SD
-http://dns.maxptv.net:2052/b013/b013/40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/40
 #EXTINF:-1 tvg-id="Warner Channel FHD" tvg-name="Warner Channel FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/warner.png" group-title="Canais :: FILMES E SÉRIES ",Warner Channel FHD
-http://dns.maxptv.net:2052/b013/b013/20232
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20232
 #EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="http://painelsbo.painel.life/logo/canais/warner.png" group-title="Canais :: FILMES E SÉRIES ",Warner Channel HD
-http://dns.maxptv.net:2052/b013/b013/4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/4
 #EXTINF:-1 tvg-id="Globo Inter TV Cabugi HD" tvg-name="Globo - INTER TV CABUGI" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",Globo - INTER TV CABUGI
-http://dns.maxptv.net:2052/b013/b013/51601
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/51601
 #EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO BRASILIA HD*" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO BRASILIA HD*
-http://dns.maxptv.net:2052/b013/b013/50312
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50312
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO EPTV CAMPINAS HD
-http://dns.maxptv.net:2052/b013/b013/50272
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50272
 #EXTINF:-1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="GLOBO EPTV SUL MINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO EPTV SUL MINAS HD
-http://dns.maxptv.net:2052/b013/b013/50258
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50258
 #EXTINF:-1 tvg-id="Globo Inter TV Grande Minas HD" tvg-name="GLOBO GRANDE MINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO GRANDE MINAS HD
-http://dns.maxptv.net:2052/b013/b013/50259
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50259
 #EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="GLOBO MINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO MINAS HD
-http://dns.maxptv.net:2052/b013/b013/50261
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50261
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO NORDESTE HD
-http://dns.maxptv.net:2052/b013/b013/50263
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50263
 #EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis HD" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO NSC FLORIANOPOLIS HD
-http://dns.maxptv.net:2052/b013/b013/50264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50264
 #EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD
-http://dns.maxptv.net:2052/b013/b013/50282
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50282
 #EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD
-http://dns.maxptv.net:2052/b013/b013/50265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50265
 #EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD*" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD*
-http://dns.maxptv.net:2052/b013/b013/50338
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50338
 #EXTINF:-1 tvg-id="RedeAmazonica.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO REDE AMAZONICA RONDONIA HD
-http://dns.maxptv.net:2052/b013/b013/50286
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50286
 #EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO RJ HD
-http://dns.maxptv.net:2052/b013/b013/50266
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50266
 #EXTINF:-1 tvg-id="Globo Rpc Curitiba HD" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO RPC CURITIBA HD
-http://dns.maxptv.net:2052/b013/b013/50287
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50287
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO SP HD
-http://dns.maxptv.net:2052/b013/b013/50267
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50267
 #EXTINF:-1 tvg-id="Globo TV Anhanguera HD" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO TV ANHANGUERA HD
-http://dns.maxptv.net:2052/b013/b013/50292
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50292
 #EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO TV BAHIA HD
-http://dns.maxptv.net:2052/b013/b013/50293
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50293
 #EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO TV BAHIA HD*" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO TV BAHIA HD*
-http://dns.maxptv.net:2052/b013/b013/50349
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50349
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO TV VANG. S.J. CAMPOS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO TV VANG. S.J. CAMPOS HD
-http://dns.maxptv.net:2052/b013/b013/50307
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50307
 #EXTINF:-1 tvg-id="TVBahia.br" tvg-name="GLOBO TV VITORIA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO TV VITORIA HD
-http://dns.maxptv.net:2052/b013/b013/50309
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/50309
 #EXTINF:-1 tvg-id="Globo Centro America Cuiaba SD" tvg-name="TV Centro América Cuiabá (ST)*" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",TV Centro América Cuiabá (ST)*
-http://dns.maxptv.net:2052/b013/b013/51596
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/51596
 #EXTINF:-1 tvg-id="Globo Bauru HD" tvg-name="TV Tem Bauru (ST)" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",TV Tem Bauru (ST)
-http://dns.maxptv.net:2052/b013/b013/141430
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/141430
 #EXTINF:-1 tvg-id="Globo TV Tem Itapetininga HD" tvg-name="TV Tem Itapetininga (ST)" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",TV Tem Itapetininga (ST)
-http://dns.maxptv.net:2052/b013/b013/141428
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/141428
 #EXTINF:-1 tvg-id="HBO 2 FHD" tvg-name="HBO 2 FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo2.png" group-title="Canais :: HBO",HBO 2 FHD
-http://dns.maxptv.net:2052/b013/b013/19528
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/19528
 #EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo2.png" group-title="Canais :: HBO",HBO 2 HD
-http://dns.maxptv.net:2052/b013/b013/135
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/135
 #EXTINF:-1 tvg-id="HBO 2 SD" tvg-name="HBO 2 SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo2.png" group-title="Canais :: HBO",HBO 2 SD
-http://dns.maxptv.net:2052/b013/b013/134
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/134
 #EXTINF:-1 tvg-id="HBO Family FHD" tvg-name="HBO Family FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO",HBO Family FHD
-http://dns.maxptv.net:2052/b013/b013/19530
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/19530
 #EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO",HBO Family HD
-http://dns.maxptv.net:2052/b013/b013/133
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/133
 #EXTINF:-1 tvg-id="HBO Family SD" tvg-name="HBO Family SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO",HBO Family SD
-http://dns.maxptv.net:2052/b013/b013/132
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/132
 #EXTINF:-1 tvg-id="HBO FHD" tvg-name="HBO FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo.png" group-title="Canais :: HBO",HBO FHD
-http://dns.maxptv.net:2052/b013/b013/19527
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/19527
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo.png" group-title="Canais :: HBO",HBO HD
-http://dns.maxptv.net:2052/b013/b013/131
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/131
 #EXTINF:-1 tvg-id="HBO Mundi FHD" tvg-name="HBO Mundi FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO",HBO Mundi FHD
-http://dns.maxptv.net:2052/b013/b013/20316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20316
 #EXTINF:-1 tvg-id="HBO Mundi HD" tvg-name="HBO Mundi HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO",HBO Mundi HD
-http://dns.maxptv.net:2052/b013/b013/521
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/521
 #EXTINF:-1 tvg-id="HBO Mundi SD" tvg-name="HBO Mundi SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO",HBO Mundi SD
-http://dns.maxptv.net:2052/b013/b013/112
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/112
 #EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboplus.png" group-title="Canais :: HBO",HBO Plus FHD
-http://dns.maxptv.net:2052/b013/b013/19529
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/19529
 #EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboplus.png" group-title="Canais :: HBO",HBO Plus HD
-http://dns.maxptv.net:2052/b013/b013/128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/128
 #EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboplus.png" group-title="Canais :: HBO",HBO Plus SD
-http://dns.maxptv.net:2052/b013/b013/127
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/127
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO",HBO Pop FHD
-http://dns.maxptv.net:2052/b013/b013/19532
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/19532
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO",HBO Pop HD
-http://dns.maxptv.net:2052/b013/b013/111
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/111
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO",HBO Pop SD
-http://dns.maxptv.net:2052/b013/b013/110
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/110
 #EXTINF:-1 tvg-id="HBO SD" tvg-name="HBO SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo.png" group-title="Canais :: HBO",HBO SD
-http://dns.maxptv.net:2052/b013/b013/126
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/126
 #EXTINF:-1 tvg-id="HBO Signature FHD" tvg-name="HBO Signature FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO",HBO Signature FHD
-http://dns.maxptv.net:2052/b013/b013/19531
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/19531
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO",HBO Signature HD
-http://dns.maxptv.net:2052/b013/b013/531
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/531
 #EXTINF:-1 tvg-id="HBO Signature SD" tvg-name="HBO Signature SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO",HBO Signature SD
-http://dns.maxptv.net:2052/b013/b013/124
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/124
 #EXTINF:-1 tvg-id="HBO Xtreme FHD" tvg-name="HBO Xtreme FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO",HBO Xtreme FHD
-http://dns.maxptv.net:2052/b013/b013/20317
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20317
 #EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO Xtreme HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO",HBO Xtreme HD
-http://dns.maxptv.net:2052/b013/b013/520
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/520
 #EXTINF:-1 tvg-id="HBO Xtreme SD" tvg-name="HBO Xtreme SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO",HBO Xtreme SD
-http://dns.maxptv.net:2052/b013/b013/113
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/113
 #EXTINF:-1 tvg-id="Baby TV HD" tvg-name="BabyTV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/babytv.png" group-title="Canais :: INFANTIL",BabyTV HD
-http://dns.maxptv.net:2052/b013/b013/226
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/226
 #EXTINF:-1 tvg-id="Baby TV SD" tvg-name="BabyTV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/babytv.png" group-title="Canais :: INFANTIL",BabyTV SD
-http://dns.maxptv.net:2052/b013/b013/225
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/225
 #EXTINF:-1 tvg-id="Boomerang HD [Alter]" tvg-name="Boomerang HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/boomerang.png" group-title="Canais :: INFANTIL",Boomerang HD
-http://dns.maxptv.net:2052/b013/b013/217
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/217
 #EXTINF:-1 tvg-id="Boomerang SD" tvg-name="Boomerang SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/boomerang.png" group-title="Canais :: INFANTIL",Boomerang SD
-http://dns.maxptv.net:2052/b013/b013/216
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/216
 #EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="Cartoon Network FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL",Cartoon Network FHD
-http://dns.maxptv.net:2052/b013/b013/20267
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20267
 #EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL",Cartoon Network HD
-http://dns.maxptv.net:2052/b013/b013/524
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/524
 #EXTINF:-1 tvg-id="Cartoon Network SD" tvg-name="Cartoon Network SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL",Cartoon Network SD
-http://dns.maxptv.net:2052/b013/b013/204
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/204
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/caroonito.png" group-title="Canais :: INFANTIL",Cartoonito HD
-http://dns.maxptv.net:2052/b013/b013/49052
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/49052
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/caroonito.png" group-title="Canais :: INFANTIL",Cartoonito SD
-http://dns.maxptv.net:2052/b013/b013/49053
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/49053
 #EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/discoverykids.png" group-title="Canais :: INFANTIL",Discovery Kids HD
-http://dns.maxptv.net:2052/b013/b013/189
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/189
 #EXTINF:-1 tvg-id="Discovery Kids SD" tvg-name="Discovery Kids SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/discoverykids.png" group-title="Canais :: INFANTIL",Discovery Kids SD
-http://dns.maxptv.net:2052/b013/b013/188
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/188
 #EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney Channel  HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/disneychannel.png" group-title="Canais :: INFANTIL",Disney Channel  HD
-http://dns.maxptv.net:2052/b013/b013/179
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/179
 #EXTINF:-1 tvg-id="Disney Channel FHD" tvg-name="Disney Channel FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/disneychannel.png" group-title="Canais :: INFANTIL",Disney Channel FHD
-http://dns.maxptv.net:2052/b013/b013/20226
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20226
 #EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="Disney Channel SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/disneychannel.png" group-title="Canais :: INFANTIL",Disney Channel SD
-http://dns.maxptv.net:2052/b013/b013/178
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/178
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/gloob.png" group-title="Canais :: INFANTIL",Gloob HD
-http://dns.maxptv.net:2052/b013/b013/530
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/530
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/gloob.png" group-title="Canais :: INFANTIL",Gloob SD
-http://dns.maxptv.net:2052/b013/b013/140
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/140
 #EXTINF:-1 tvg-id="Nick Jr FHD" tvg-name="Nick Jr. FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nickjr.png" group-title="Canais :: INFANTIL",Nick Jr. FHD
-http://dns.maxptv.net:2052/b013/b013/20314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20314
 #EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="Nick Jr. HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nickjr.png" group-title="Canais :: INFANTIL",Nick Jr. HD
-http://dns.maxptv.net:2052/b013/b013/95
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/95
 #EXTINF:-1 tvg-id="Nick Jr SD" tvg-name="Nick Jr. SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nickjr.png" group-title="Canais :: INFANTIL",Nick Jr. SD
-http://dns.maxptv.net:2052/b013/b013/94
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/94
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nicklodeon.png" group-title="Canais :: INFANTIL",Nickelodeon FHD
-http://dns.maxptv.net:2052/b013/b013/20313
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20313
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nicklodeon.png" group-title="Canais :: INFANTIL",Nickelodeon HD
-http://dns.maxptv.net:2052/b013/b013/93
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/93
 #EXTINF:-1 tvg-id="Nickelodeon SD" tvg-name="Nickelodeon SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nicklodeon.png" group-title="Canais :: INFANTIL",Nickelodeon SD
-http://dns.maxptv.net:2052/b013/b013/92
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/92
 #EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="Rá -Tim Bum- HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/ratimbum.png" group-title="Canais :: INFANTIL",Rá -Tim Bum- HD
-http://dns.maxptv.net:2052/b013/b013/70
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/70
 #EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="Rá- Tim- Bum SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/ratimbum.png" group-title="Canais :: INFANTIL",Rá- Tim- Bum SD
-http://dns.maxptv.net:2052/b013/b013/69
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/69
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/tooncast.png" group-title="Canais :: INFANTIL",Tooncast HD
-http://dns.maxptv.net:2052/b013/b013/17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/17
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/tooncast.png" group-title="Canais :: INFANTIL",Tooncast SD
-http://dns.maxptv.net:2052/b013/b013/16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/16
 #EXTINF:-1 tvg-id="TV Gloobinho HD" tvg-name="Tv Globinho  HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/tvglobinho.png" group-title="Canais :: INFANTIL",Tv Globinho  HD
-http://dns.maxptv.net:2052/b013/b013/215
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/215
 #EXTINF:-1 tvg-id="TV Gloobinho SD" tvg-name="Tv Globinho SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/tvglobinho.png" group-title="Canais :: INFANTIL",Tv Globinho SD
-http://dns.maxptv.net:2052/b013/b013/214
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/214
 #EXTINF:-1 tvg-id="Zoomoo SD" tvg-name="ZooMoo SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/zoomo.png" group-title="Canais :: INFANTIL",ZooMoo SD
-http://dns.maxptv.net:2052/b013/b013/1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/1
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="OLIMPIADAS 01 HD [EXTRA]" tvg-logo="http://painelsbo.painel.life/olimp/olimp.png" group-title="Canais :: Jogos Olímpicos de Paris",OLIMPIADAS 01 HD [EXTRA]
-http://dns.maxptv.net:2052/b013/b013/159313
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159313
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="OLIMPIADAS 02 HD [EXTRA]" tvg-logo="http://painelsbo.painel.life/olimp/olimp.png" group-title="Canais :: Jogos Olímpicos de Paris",OLIMPIADAS 02 HD [EXTRA]
-http://dns.maxptv.net:2052/b013/b013/159312
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159312
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="OLIMPIADAS 03 HD [EXTRA]" tvg-logo="http://painelsbo.painel.life/olimp/olimp.png" group-title="Canais :: Jogos Olímpicos de Paris",OLIMPIADAS 03 HD [EXTRA]
-http://dns.maxptv.net:2052/b013/b013/159311
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159311
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="OLIMPIADAS 04 HD [EXTRA]" tvg-logo="http://painelsbo.painel.life/olimp/olimp.png" group-title="Canais :: Jogos Olímpicos de Paris",OLIMPIADAS 04 HD [EXTRA]
-http://dns.maxptv.net:2052/b013/b013/159310
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159310
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="OLIMPIADAS 05 HD [EXTRA]" tvg-logo="http://painelsbo.painel.life/olimp/olimp.png" group-title="Canais :: Jogos Olímpicos de Paris",OLIMPIADAS 05 HD [EXTRA]
-http://dns.maxptv.net:2052/b013/b013/159309
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159309
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="OLIMPIADAS 06 HD [EXTRA]" tvg-logo="http://painelsbo.painel.life/olimp/olimp.png" group-title="Canais :: Jogos Olímpicos de Paris",OLIMPIADAS 06 HD [EXTRA]
-http://dns.maxptv.net:2052/b013/b013/159308
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159308
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="OLIMPIADAS 07 HD [EXTRA]" tvg-logo="http://painelsbo.painel.life/olimp/olimp.png" group-title="Canais :: Jogos Olímpicos de Paris",OLIMPIADAS 07 HD [EXTRA]
-http://dns.maxptv.net:2052/b013/b013/159307
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159307
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="SPORTV 4 HD [EXTRA]" tvg-logo="http://painelsbo.painel.life/olimp/olimp.png" group-title="Canais :: Jogos Olímpicos de Paris",SPORTV 4 HD [EXTRA]
-http://dns.maxptv.net:2052/b013/b013/159315
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159315
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="SPORTV MOSAICO HD [EXTRA]" tvg-logo="http://painelsbo.painel.life/olimp/olimp.png" group-title="Canais :: Jogos Olímpicos de Paris",SPORTV MOSAICO HD [EXTRA]
-http://dns.maxptv.net:2052/b013/b013/159314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159314
 #EXTINF:-1 tvg-id="bis.br" tvg-name="Bis HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAIS",Bis HD
-http://dns.maxptv.net:2052/b013/b013/219
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/219
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIs SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAIS",BIs SD
-http://dns.maxptv.net:2052/b013/b013/218
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/218
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV 00s FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv00.png" group-title="Canais :: MUSICAIS",MTV 00s FHD
-http://dns.maxptv.net:2052/b013/b013/20262
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20262
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV 00s HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv00.png" group-title="Canais :: MUSICAIS",MTV 00s HD
-http://dns.maxptv.net:2052/b013/b013/8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/8
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV 00s SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv00.png" group-title="Canais :: MUSICAIS",MTV 00s SD
-http://dns.maxptv.net:2052/b013/b013/7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/7
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv.png" group-title="Canais :: MUSICAIS",MTV FHD
-http://dns.maxptv.net:2052/b013/b013/20261
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20261
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv.png" group-title="Canais :: MUSICAIS",MTV HD
-http://dns.maxptv.net:2052/b013/b013/519
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/519
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV Live HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtvlive.png" group-title="Canais :: MUSICAIS",MTV Live HD
-http://dns.maxptv.net:2052/b013/b013/20465
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20465
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV LIVE SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtvlive.png" group-title="Canais :: MUSICAIS",MTV LIVE SD
-http://dns.maxptv.net:2052/b013/b013/48337
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48337
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv.png" group-title="Canais :: MUSICAIS",MTV SD
-http://dns.maxptv.net:2052/b013/b013/106
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/106
 #EXTINF:-1 tvg-id="Multishow SD" tvg-name="Multishow HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/multshow.png" group-title="Canais :: MUSICAIS",Multishow HD
-http://dns.maxptv.net:2052/b013/b013/105
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/105
 #EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/multshow.png" group-title="Canais :: MUSICAIS",Multishow SD
-http://dns.maxptv.net:2052/b013/b013/104
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/104
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/musicboxbrasil.png" group-title="Canais :: MUSICAIS",Music Box Brazil HD
-http://dns.maxptv.net:2052/b013/b013/48342
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48342
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/musicboxbrasil.png" group-title="Canais :: MUSICAIS",Music Box Brazil SD
-http://dns.maxptv.net:2052/b013/b013/48343
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48343
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/tracebrazucas.png" group-title="Canais :: MUSICAIS",Trace Brazuca HD
-http://dns.maxptv.net:2052/b013/b013/20468
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20468
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/tracebrazucas.png" group-title="Canais :: MUSICAIS",Trace Brazuca SD
-http://dns.maxptv.net:2052/b013/b013/20469
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20469
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/agromais.png" group-title="Canais :: NOTÍCIAS ",AgroMais HD
-http://dns.maxptv.net:2052/b013/b013/48331
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48331
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/agromais.png" group-title="Canais :: NOTÍCIAS ",AgroMais SD
-http://dns.maxptv.net:2052/b013/b013/48332
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48332
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS ",Band News HD
-http://dns.maxptv.net:2052/b013/b013/224
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/224
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS ",Band News SD
-http://dns.maxptv.net:2052/b013/b013/223
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/223
 #EXTINF:-1 tvg-id="BM&C HD" tvg-name="BM&C HD" tvg-logo="http://painelsbo.painel.life/newlogos/bmc.png" group-title="Canais :: NOTÍCIAS ",BM&C HD
-http://dns.maxptv.net:2052/b013/b013/136109
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/136109
 #EXTINF:-1 tvg-id="BM&C HD" tvg-name="BM&C SD" tvg-logo="http://painelsbo.painel.life/newlogos/bmc.png" group-title="Canais :: NOTÍCIAS ",BM&C SD
-http://dns.maxptv.net:2052/b013/b013/136110
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/136110
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="Cnn Brasil HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/cnnbrasil.png" group-title="Canais :: NOTÍCIAS ",Cnn Brasil HD
-http://dns.maxptv.net:2052/b013/b013/8890
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/8890
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="Cnn Brasil SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/cnnbrasil.png" group-title="Canais :: NOTÍCIAS ",Cnn Brasil SD
-http://dns.maxptv.net:2052/b013/b013/8891
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/8891
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/globonews.png" group-title="Canais :: NOTÍCIAS ",GloboNews HD
-http://dns.maxptv.net:2052/b013/b013/143
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/143
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/globonews.png" group-title="Canais :: NOTÍCIAS ",GloboNews SD
-http://dns.maxptv.net:2052/b013/b013/142
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/142
 #EXTINF:-1 tvg-id="jpnews.br" tvg-name="Jovem Pan News HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/jovempannews.png" group-title="Canais :: NOTÍCIAS ",Jovem Pan News HD
-http://dns.maxptv.net:2052/b013/b013/47532
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/47532
 #EXTINF:-1 tvg-id="jpnews.br" tvg-name="Jovem Pan News SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/jovempannews.png" group-title="Canais :: NOTÍCIAS ",Jovem Pan News SD
-http://dns.maxptv.net:2052/b013/b013/47533
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/47533
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/recordnews.png" group-title="Canais :: NOTÍCIAS ",Record News HD
-http://dns.maxptv.net:2052/b013/b013/67
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/67
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/recordnews.png" group-title="Canais :: NOTÍCIAS ",Record News SD
-http://dns.maxptv.net:2052/b013/b013/66
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/66
 #EXTINF:-1 tvg-id="TVJustica.br" tvg-name="Tv Justiça" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/tvjustica.png" group-title="Canais :: NOTÍCIAS ",Tv Justiça
-http://dns.maxptv.net:2052/b013/b013/23531
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/23531
 #EXTINF:-1 tvg-id="TV Justiça SD" tvg-name="Tv Justiça" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/tvjustica.png" group-title="Canais :: NOTÍCIAS ",Tv Justiça
-http://dns.maxptv.net:2052/b013/b013/27436
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/27436
 #EXTINF:-1 tvg-id="TVSenado.br" tvg-name="Tv Senado" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/tvsenado.png" group-title="Canais :: NOTÍCIAS ",Tv Senado
-http://dns.maxptv.net:2052/b013/b013/23532
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/23532
 #EXTINF:-1 tvg-id="TV Senado SD" tvg-name="Tv Senado" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/tvsenado.png" group-title="Canais :: NOTÍCIAS ",Tv Senado
-http://dns.maxptv.net:2052/b013/b013/27437
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/27437
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE",Combate FHD
-http://dns.maxptv.net:2052/b013/b013/19526
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/19526
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE",Combate HD
-http://dns.maxptv.net:2052/b013/b013/201
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/201
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE",Combate SD
-http://dns.maxptv.net:2052/b013/b013/200
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/200
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 HD
-http://dns.maxptv.net:2052/b013/b013/86
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/86
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 HD²
-http://dns.maxptv.net:2052/b013/b013/247
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/247
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD³" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 HD³
-http://dns.maxptv.net:2052/b013/b013/46681
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/46681
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 SD
-http://dns.maxptv.net:2052/b013/b013/85
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/85
 #EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE",Premiere 2 HD
-http://dns.maxptv.net:2052/b013/b013/13216
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/13216
 #EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE",Premiere 2 HD²
-http://dns.maxptv.net:2052/b013/b013/1462
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/1462
 #EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE",Premiere 2 SD
-http://dns.maxptv.net:2052/b013/b013/83
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/83
 #EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE",Premiere 3 HD
-http://dns.maxptv.net:2052/b013/b013/82
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/82
 #EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE",Premiere 3 HD²
-http://dns.maxptv.net:2052/b013/b013/1463
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/1463
 #EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE",Premiere 3 SD
-http://dns.maxptv.net:2052/b013/b013/81
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/81
 #EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE",Premiere 4 HD
-http://dns.maxptv.net:2052/b013/b013/80
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/80
 #EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE",Premiere 4 HD²
-http://dns.maxptv.net:2052/b013/b013/1464
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/1464
 #EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE",Premiere 4 SD
-http://dns.maxptv.net:2052/b013/b013/79
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/79
 #EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 HD
-http://dns.maxptv.net:2052/b013/b013/78
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/78
 #EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 HD²
-http://dns.maxptv.net:2052/b013/b013/1465
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/1465
 #EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 SD
-http://dns.maxptv.net:2052/b013/b013/77
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/77
 #EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere6.png" group-title="Canais :: PREMIERE",Premiere 6 HD
-http://dns.maxptv.net:2052/b013/b013/76
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/76
 #EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere6.png" group-title="Canais :: PREMIERE",Premiere 6 SD
-http://dns.maxptv.net:2052/b013/b013/75
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/75
 #EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere7.png" group-title="Canais :: PREMIERE",Premiere 7 HD²
-http://dns.maxptv.net:2052/b013/b013/1467
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/1467
 #EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere7.png" group-title="Canais :: PREMIERE",Premiere 7 SD
-http://dns.maxptv.net:2052/b013/b013/74
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/74
 #EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecineaction.png" group-title="Canais :: TELECINE",Telecine Action FHD
-http://dns.maxptv.net:2052/b013/b013/20247
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20247
 #EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecineaction.png" group-title="Canais :: TELECINE",Telecine Action HD
-http://dns.maxptv.net:2052/b013/b013/35
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/35
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecineaction.png" group-title="Canais :: TELECINE",Telecine Action SD
-http://dns.maxptv.net:2052/b013/b013/34
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/34
 #EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinecult.png" group-title="Canais :: TELECINE",Telecine Cult FHD
-http://dns.maxptv.net:2052/b013/b013/20246
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20246
 #EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinecult.png" group-title="Canais :: TELECINE",Telecine Cult HD
-http://dns.maxptv.net:2052/b013/b013/33
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/33
 #EXTINF:-1 tvg-id="Telecine Cult SD" tvg-name="Telecine Cult SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinecult.png" group-title="Canais :: TELECINE",Telecine Cult SD
-http://dns.maxptv.net:2052/b013/b013/32
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/32
 #EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinefun.png" group-title="Canais :: TELECINE",Telecine Fun FHD
-http://dns.maxptv.net:2052/b013/b013/20248
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20248
 #EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinefun.png" group-title="Canais :: TELECINE",Telecine Fun HD
-http://dns.maxptv.net:2052/b013/b013/31
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/31
 #EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="Telecine Fun SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinefun.png" group-title="Canais :: TELECINE",Telecine Fun SD
-http://dns.maxptv.net:2052/b013/b013/30
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/30
 #EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE",Telecine Pipoca FHD
-http://dns.maxptv.net:2052/b013/b013/20230
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20230
 #EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE",Telecine Pipoca HD
-http://dns.maxptv.net:2052/b013/b013/29
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/29
 #EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="Telecine Pipoca SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE",Telecine Pipoca SD
-http://dns.maxptv.net:2052/b013/b013/28
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/28
 #EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepremiun.png" group-title="Canais :: TELECINE",Telecine Premium FHD
-http://dns.maxptv.net:2052/b013/b013/20228
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20228
 #EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepremiun.png" group-title="Canais :: TELECINE",Telecine Premium HD
-http://dns.maxptv.net:2052/b013/b013/27
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/27
 #EXTINF:-1 tvg-id="Telecine Premium SD" tvg-name="Telecine Premium SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepremiun.png" group-title="Canais :: TELECINE",Telecine Premium SD
-http://dns.maxptv.net:2052/b013/b013/26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/26
 #EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinetouch.png" group-title="Canais :: TELECINE",Telecine Touch FHD
-http://dns.maxptv.net:2052/b013/b013/20229
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20229
 #EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinetouch.png" group-title="Canais :: TELECINE",Telecine Touch HD
-http://dns.maxptv.net:2052/b013/b013/25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/25
 #EXTINF:-1 tvg-id="Telecine Touch SD" tvg-name="Telecine Touch SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinetouch.png" group-title="Canais :: TELECINE",Telecine Touch SD
-http://dns.maxptv.net:2052/b013/b013/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/24
 #EXTINF:-1 tvg-id="trutv.br" tvg-name="Adult Swim HD" tvg-logo="http://painelsbo.painel.life/newlogos/adult.png" group-title="Canais :: VARIEDADES",Adult Swim HD
-http://dns.maxptv.net:2052/b013/b013/136111
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/136111
 #EXTINF:-1 tvg-id="trutv.br" tvg-name="Adult Swim SD" tvg-logo="http://painelsbo.painel.life/newlogos/adult.png" group-title="Canais :: VARIEDADES",Adult Swim SD
-http://dns.maxptv.net:2052/b013/b013/136112
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/136112
 #EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="http://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES",Arte 1 HD
-http://dns.maxptv.net:2052/b013/b013/136903
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/136903
 #EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 SD" tvg-logo="http://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES",Arte 1 SD
-http://dns.maxptv.net:2052/b013/b013/136904
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/136904
 #EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/curta.png" group-title="Canais :: VARIEDADES",Curta! HD
-http://dns.maxptv.net:2052/b013/b013/213
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/213
 #EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/curta.png" group-title="Canais :: VARIEDADES",Curta! SD
-http://dns.maxptv.net:2052/b013/b013/212
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/212
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health FHD
-http://dns.maxptv.net:2052/b013/b013/20265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/20265
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health HD
-http://dns.maxptv.net:2052/b013/b013/191
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/191
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health SD
-http://dns.maxptv.net:2052/b013/b013/190
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/190
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/foodnetwork.png" group-title="Canais :: VARIEDADES",Food Network HD
-http://dns.maxptv.net:2052/b013/b013/158
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/158
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/foodnetwork.png" group-title="Canais :: VARIEDADES",Food Network SD
-http://dns.maxptv.net:2052/b013/b013/159
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/159
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/gnt.png" group-title="Canais :: VARIEDADES",GNT HD
-http://dns.maxptv.net:2052/b013/b013/139
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/139
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/gnt.png" group-title="Canais :: VARIEDADES",GNT SD
-http://dns.maxptv.net:2052/b013/b013/138
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/138
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/loading.png" group-title="Canais :: VARIEDADES",LOADING HD
-http://dns.maxptv.net:2052/b013/b013/48350
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48350
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/loading.png" group-title="Canais :: VARIEDADES",LOADING SD
-http://dns.maxptv.net:2052/b013/b013/48351
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48351
 #EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="MAIS NA TELA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/maisnatela.png" group-title="Canais :: VARIEDADES",MAIS NA TELA HD
-http://dns.maxptv.net:2052/b013/b013/48377
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48377
 #EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="MAIS NA TELA SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/maisnatela.png" group-title="Canais :: VARIEDADES",MAIS NA TELA SD
-http://dns.maxptv.net:2052/b013/b013/48378
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48378
 #EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="Modo Viagem HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/maisglobosat.png" group-title="Canais :: VARIEDADES",Modo Viagem HD
-http://dns.maxptv.net:2052/b013/b013/117
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/117
 #EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="Modo Viagem SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/maisglobosat.png" group-title="Canais :: VARIEDADES",Modo Viagem SD
-http://dns.maxptv.net:2052/b013/b013/116
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/116
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/canaloff.png" group-title="Canais :: VARIEDADES",OFF HD
-http://dns.maxptv.net:2052/b013/b013/209
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/209
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/canaloff.png" group-title="Canais :: VARIEDADES",OFF SD
-http://dns.maxptv.net:2052/b013/b013/208
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/208
 #EXTINF:-1 tvg-id="Sabor e Arte HD" tvg-name="Sabor & Arte HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/saborearte.png" group-title="Canais :: VARIEDADES",Sabor & Arte HD
-http://dns.maxptv.net:2052/b013/b013/48329
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48329
 #EXTINF:-1 tvg-id="Sabor e Arte SD" tvg-name="Sabor & Arte SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/saborearte.png" group-title="Canais :: VARIEDADES",Sabor & Arte SD
-http://dns.maxptv.net:2052/b013/b013/48330
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/48330
 #EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC HD" tvg-logo="http://painelsbo.painel.life/logo2/tlchd.png" group-title="Canais :: VARIEDADES",TLC HD
-http://dns.maxptv.net:2052/b013/b013/23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/23
 #EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC SD" tvg-logo="http://painelsbo.painel.life/logo2/tlchd.png" group-title="Canais :: VARIEDADES",TLC SD
-http://dns.maxptv.net:2052/b013/b013/22
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/22
 #EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/viva.png" group-title="Canais :: VARIEDADES",Viva HD
-http://dns.maxptv.net:2052/b013/b013/6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/6
 #EXTINF:-1 tvg-id="viva.br" tvg-name="Viva SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/viva.png" group-title="Canais :: VARIEDADES",Viva SD
-http://dns.maxptv.net:2052/b013/b013/5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/5
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/wohoo.png" group-title="Canais :: VARIEDADES",Woohoo HD
-http://dns.maxptv.net:2052/b013/b013/207
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/207
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/wohoo.png" group-title="Canais :: VARIEDADES",Woohoo SD
-http://dns.maxptv.net:2052/b013/b013/206
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/206
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Baby Looney Tunes" tvg-logo="http://srv.maxptv.net:8080/images/11629183647d6b128994c7bc176c0bcd.png" group-title="24H ::: CLÁSSICOS DESENHOS",Baby Looney Tunes
-http://dns.maxptv.net:2052/b013/b013/113214
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/113214
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Batman do Futuro (1999)" tvg-logo="http://srv.maxptv.net:8080/images/58af157587628ed8bcbbe3fb0b65c166.png" group-title="24H ::: CLÁSSICOS DESENHOS",Batman do Futuro (1999)
-http://dns.maxptv.net:2052/b013/b013/113216
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/113216
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Capitão Planeta (1990)" tvg-logo="http://nx.nayptv.com/images/vkYW8kBI-uZN-j1M7wlrKnRPIjIqt3WKF9QcwxuIfBGwypBA4Mc2Z-LjaiJG59LX.png" group-title="24H ::: CLÁSSICOS DESENHOS",Capitão Planeta (1990)
-http://dns.maxptv.net:2052/b013/b013/49779
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/49779
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball GT (1996)" tvg-logo="http://srv.maxptv.net:8080/images/54607c518b46aee003e6454ff20aecb1.png" group-title="24H ::: CLÁSSICOS DESENHOS",Dragon Ball GT (1996)
-http://dns.maxptv.net:2052/b013/b013/113204
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/113204
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Johnny Bravo" tvg-logo="http://srv.maxptv.net:8080/images/0624a3c34ec7b5376f23f86de81a49ac.png" group-title="24H ::: CLÁSSICOS DESENHOS",Johnny Bravo
-http://dns.maxptv.net:2052/b013/b013/113223
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/113223
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="O Pequeno Urso (1995)" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/191.png" group-title="24H ::: CLÁSSICOS DESENHOS",O Pequeno Urso (1995)
-http://dns.maxptv.net:2052/b013/b013/49773
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/49773
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Jetsons (1962)" tvg-logo="http://srv.maxptv.net:8080/images/a896b557bdb570a9f8ff21eda6f785b2.png" group-title="24H ::: CLÁSSICOS DESENHOS",Os Jetsons (1962)
-http://dns.maxptv.net:2052/b013/b013/86129
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/86129
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Super Amigos (1973)" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/207.png" group-title="24H ::: CLÁSSICOS DESENHOS",Super Amigos (1973)
-http://dns.maxptv.net:2052/b013/b013/49739
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/49739
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Superman A Série Animada (1996)" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/208.png" group-title="24H ::: CLÁSSICOS DESENHOS",Superman A Série Animada (1996)
-http://dns.maxptv.net:2052/b013/b013/49763
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/49763
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="ThunderCats (2011)" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/212.png" group-title="24H ::: CLÁSSICOS DESENHOS",ThunderCats (2011)
-http://dns.maxptv.net:2052/b013/b013/49741
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/49741
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Timão e Pumba (1995)" tvg-logo="http://srv.maxptv.net:8080/images/6e354b30072277c2525148089ef2b3cf.png" group-title="24H ::: CLÁSSICOS DESENHOS",Timão e Pumba (1995)
-http://dns.maxptv.net:2052/b013/b013/86137
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/86137
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Tom e Jerry (1975)" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/214.png" group-title="24H ::: CLÁSSICOS DESENHOS",Tom e Jerry (1975)
-http://dns.maxptv.net:2052/b013/b013/49768
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/49768
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Gln Tv" tvg-logo="http://painelsbo.painel.life/logosiptv/classicosseries/glntv.png" group-title="24H ::: CLÁSSICOS SÉRIES ",Gln Tv
-http://dns.maxptv.net:2052/b013/b013/71748
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/71748
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Rede Clone Tv" tvg-logo="http://painelsbo.painel.life/logosiptv/classicosseries/redeclone.png" group-title="24H ::: CLÁSSICOS SÉRIES ",Rede Clone Tv
-http://dns.maxptv.net:2052/b013/b013/71751
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=http://dns.maxptv.net:2052/b013/b013/71751
