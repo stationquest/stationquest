@@ -1,6 +1,15 @@
 <channels>
 	<!-- opicional -->    
 	<channel>
+        <name>Busca</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<epg>http://dns.maxptv.net:2052/xmltv.php?username=b013&password=b013</epg>
+		<info></info>
+		<externallink>plugin://plugin.video.trinity/?action=router</externallink>
+    </channel>
+	
+	<channel>
         <name>Servidor 1 [COLOR yellow](dns.maxptv.net:2052)[/COLOR]</name>
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
