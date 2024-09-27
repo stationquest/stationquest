@@ -1,1 +1,163 @@
+<channels>
+	<!-- opicional -->    
+	<channel>
+        <name>Servidor 1 [COLOR yellow](dns.maxptv.net:2052)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/1.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 2 [COLOR yellow](134.195.198.26:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/2.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 3 [COLOR yellow](pfsv.io:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/3.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 4 [COLOR yellow](cdnfast.online:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/4.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 5 [COLOR yellow](uniplay.link:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/5.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 6 [COLOR yellow](canal.cdntv.com.br:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/6.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 7 [COLOR yellow](brqnt.pro:2082)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/7.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 8 [COLOR yellow](rdns.tv:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/8.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 9 [COLOR yellow](zeusplay.life:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/9.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 10 [COLOR yellow](w2zx.me:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/10.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 11 [COLOR yellow](1111.wf:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/11.m3u</externallink>
+    </channel>
+	#novos
+	<channel>
+        <name>Servidor 12 [COLOR yellow](4tv.site)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/12.m3u</externallink>
+    </channel>
 
+  <channel>
+        <name>Servidor 13 [COLOR yellow](7vnx.xyz)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/13.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 14 [COLOR yellow](liebetv.me)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/14.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 15 [COLOR yellow](wplaycine.top)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/15.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 16 [COLOR yellow](pqp.one:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/16.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 17 [COLOR yellow](infraz.top:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/17.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 18 [COLOR yellow](openbox.fun:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/18.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 19 [COLOR yellow](asrv.io:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/19.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor 20 [COLOR yellow](xdns.ws:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/20.m3u</externallink>
+    </channel>
+	
+</channels>	
