@@ -19,6 +19,22 @@
     </channel>
 	
 	<channel>
+        <name>Servidor 31 [COLOR yellow](pfsv.io:80)[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+        <info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/main/3.m3u</externallink>
+        <epg>http://pfsv.io:80/xmltv.php?username=jonatassousa&password=4645674</epg>  <!-- Link para o arquivo XML do EPG -->
+        <epg_regex>
+            <regex>
+                <name>EPG Regex</name>
+                <expres><![CDATA[<programme start="(.+?)" stop="(.+?)" channel="(.+?)">\s*<title>(.+?)<\/title>\s*<desc>(.+?)<\/desc>]]></expres>
+                <page>http://pfsv.io:80/xmltv.php?username=jonatassousa&password=4645674</page> <!-- Link da página EPG -->
+            </regex>
+        </epg_regex>
+    </channel>
+	
+	<channel>
         <name>Servidor 3 [COLOR yellow](pfsv.io:80)[/COLOR]</name>
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
