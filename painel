@@ -1,5 +1,14 @@
 <channels>
-	<!-- opicional -->    	
+	<!-- opicional -->
+	<channel>
+        <name>Servidor [COLOR yellow](Embed 1)[/COLOR]</name>
+        <thumbnail>https://i.imgur.com/GdQHZLs.jpeg</thumbnail>
+        <fanart>https://i.imgur.com/GdQHZLs.jpeg</fanart>
+		<epg>http://dns.maxptv.net:2052/xmltv.php?username=b013&password=b013</epg>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/refs/heads/main/embed1.m3u</externallink>
+    </channel>
+	
 	<channel>
         <name>Servidor 1 [COLOR yellow](dns.maxptv.net:2052)[/COLOR]</name>
         <thumbnail>https://i.imgur.com/GdQHZLs.jpeg</thumbnail>
