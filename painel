@@ -1,7 +1,7 @@
 <channels>
 	<!-- opicional -->
 	<channel>
-        <name>Servidor [COLOR yellow](Embed 1)[/COLOR]</name>
+        <name>Servidor [B][COLOR red](Embed 1)[/COLOR][/B]</name>
         <thumbnail>https://i.imgur.com/GdQHZLs.jpeg</thumbnail>
         <fanart>https://i.imgur.com/GdQHZLs.jpeg</fanart>
 		<info></info>
@@ -9,11 +9,19 @@
     </channel>
 	
 	<channel>
-        <name>Servidor [COLOR yellow](Embed 2)[/COLOR]</name>
+        <name>Servidor [B][COLOR red](Embed 2)[/COLOR][/B]</name>
         <thumbnail>https://i.imgur.com/GdQHZLs.jpeg</thumbnail>
         <fanart>https://i.imgur.com/GdQHZLs.jpeg</fanart>
 		<info></info>
 		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/refs/heads/main/embed2.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>Servidor [B][COLOR red](Embed 3)[/COLOR][/B]</name>
+        <thumbnail>https://i.imgur.com/GdQHZLs.jpeg</thumbnail>
+        <fanart>https://i.imgur.com/GdQHZLs.jpeg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/stationquest/stationquest/refs/heads/main/embed3.m3u</externallink>
     </channel>
 	
 	<channel>
